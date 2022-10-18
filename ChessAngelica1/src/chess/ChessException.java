@@ -6,5 +6,5 @@ public class ChessException extends RuntimeException{
             super(msg);
         }
         
-    }
+    
 }
