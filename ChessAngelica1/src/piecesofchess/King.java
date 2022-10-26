@@ -13,8 +13,7 @@ public class King extends ChessPiece{
         super(board, color);
     }
 
-    @Overrb3
-    ide
+    @Override
     public String toString(){
         return "K";
     }
